@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <cstdio>
 using namespace std;
 int long_division() {
     printf("\n  Author: Saif Salah El-deen Yahya\n"
@@ -154,6 +154,7 @@ int long_division() {
             break;
         }
     }
+    return 0;
 }
 int main() {
     long_division();
