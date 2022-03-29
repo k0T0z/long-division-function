@@ -1,4 +1,4 @@
-# CPProject
+# CProject
 
 Long Division Function
 
